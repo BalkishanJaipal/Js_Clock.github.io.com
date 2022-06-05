@@ -1,0 +1,29 @@
+*
+{
+    list-style: none;
+    text-decoration: none;
+}
+.container
+{
+    margin-top: 150px !important;
+    
+}
+
+.col-md-6
+{
+border: 2px solid wheat;
+}
+
+button{
+    border-radius: 10px;
+    background-color: blue;
+    font-size: large;
+    font-weight: bold;
+    padding: 2px 5px;
+}
+
+.dropdown-item a:hover{
+    background-color: cadetblue;
+    color: black;
+}
+
